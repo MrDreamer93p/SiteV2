@@ -1,0 +1,57 @@
+#first {
+  height: 99%;
+  background: radial-gradient(circle, rgba(1,1,1,0) 0%, rgba(1,1,1,0.9304096638655462) 50%, rgba(1,1,1,1) 100%), url('../img/BG.jpg');
+  background-color: black;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#first h1 {
+  text-align: center;
+  line-height: 900px;
+  font-size: 120px;
+  color: #fff;
+}
+
+#border {
+  height: 1%;
+  background-color: orange;
+}
+
+#two {
+  height: 80%;
+  background-color: black;
+  background: radial-gradient(circle, rgba(1,1,1,0) 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 72%, rgba(23,23,23,1) 100%);
+}
+
+#two img {
+  height: 400px;
+  width: 900px;
+}
+
+.centrer {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+}
+
+.titre {
+  font-size: 60px;
+  margin: 20px;
+  color: #fff;
+}
+
+.sous-titre {
+  color: #fff;
+  font-size: 50px;
+}
