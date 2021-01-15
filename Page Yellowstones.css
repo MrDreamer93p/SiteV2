@@ -1,0 +1,39 @@
+/*Couleur Fond et Texte*/
+body
+{
+	font-family:"Trebuchet MS";
+	background: radial-gradient(white,grey, black);
+	color: black;
+	
+	min-height:800px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+/*Taille Photo */
+.ImageYellow
+{
+	width: 450px;
+	height: 600px;
+	margin-right: 5%;
+	padding-left: 10%;
+
+}
+
+/*Taille Bouton*/
+.BoutonYellow
+{
+	width: 200px;
+	height: 40px;
+}
+div
+{
+	padding-top:2.5%;
+}
+.ImageYellow
+{
+	padding-top:2.5%;
+}
+

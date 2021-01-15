@@ -1,0 +1,38 @@
+/*Couleur Fond et Texte*/
+body
+{
+	font-family:"Trebuchet MS";
+	background: radial-gradient(white,grey, black);
+	color: black;
+	
+	min-height:800px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+/*Taille Photo */
+.ImageN_Caledonie
+{
+	width: 250px;
+	height: 600px;
+	margin-right: 10%;
+	padding-left: 10%;
+
+}
+
+/*Taille Bouton*/
+.BoutonNC
+{
+	width: 200px;
+	height: 40px;
+}
+div
+{
+	padding-top:2.5%;
+}
+.ImageN_Caledonie
+{
+	padding-top:2.5%;
+}
